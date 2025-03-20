@@ -1,0 +1,22 @@
+[
+    {
+        "brand":"Ford",
+        "count":1048
+    },
+    {
+        "brand":"Audi",
+        "count":1038
+    },
+    {
+        "brand":"Volkswagen",
+        "count":1020
+    },
+    {
+        "brand":"Honda",
+        "count":1009
+    },
+    {
+        "brand":"Chevrolet",
+        "count":1003
+    }
+]

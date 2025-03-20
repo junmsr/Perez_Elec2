@@ -1,0 +1,20 @@
+Lab 4 Analysis - Car Data
+
+- Top 5 Most Frequent Car Brands:
+Ford: 1048 listings
+Audi: 1038 listings
+Volkswagen: 1020 listings
+Honda: 1009 listings
+Chevrolet: 1003 listings
+
+- Average Price Per Brand:
+Chevrolet: $9015.68
+Mercedes: $8980.09
+Audi: $8929.37
+Volkswagen: $8928.38
+Kia: $8880.09
+Ford: $8852.57
+Toyota: $8798.18
+Hyundai: $8778.28
+BMW: $8704.07
+Honda: $8665.6
